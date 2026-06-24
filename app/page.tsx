@@ -3,6 +3,7 @@ import { HeroSection } from "@/components/hero-section"
 import { StatsSection } from "@/components/stats-section"
 import { FeaturesSection } from "@/components/features-section"
 import { DeveloperExperience } from "@/components/developer-experience"
+import { AstanaHubSection } from "@/components/astana-hub-section"
 import { CodeSection } from "@/components/code-section"
 import { DocsSection } from "@/components/docs-section"
 import { EnterpriseSection } from "@/components/enterprise-section"
@@ -15,6 +16,7 @@ export default function Home() {
       <Navbar />
       <HeroSection />
       <StatsSection />
+      <AstanaHubSection />
       <FeaturesSection />
       <DeveloperExperience />
       <CodeSection />

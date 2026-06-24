@@ -227,6 +227,17 @@ export const cta = {
   secondary: "Позвонить",
 }
 
+export const astanaHub = {
+  label: "Резидент Astana Hub",
+  eyebrow: "Astana Hub",
+  title: "Часть IT-экосистемы Казахстана",
+  lead:
+    "Мы — резидент Astana Hub, крупнейшего технопарка страны. Статус подтверждает наш фокус на инновациях, цифровых технологиях и развитии IT в регионе.",
+  linkLabel: "astanahub.com",
+  url: "https://astanahub.com",
+  logo: "/Logo_Horizont_Invers.png",
+}
+
 export const footer = {
   description:
     "Трансформируем бизнес через цифровые решения, ИИ и облачные технологии — от стратегии до запуска.",
